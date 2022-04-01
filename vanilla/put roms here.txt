@@ -1,0 +1,6 @@
+Clean unmodified ROM files of the following games are required:
+
+MMBN6 Falzar (US)
+MMBN6 Gregar (US)
+EXE6 Falzar (JP)
+EXE6 Gregar (JP)
